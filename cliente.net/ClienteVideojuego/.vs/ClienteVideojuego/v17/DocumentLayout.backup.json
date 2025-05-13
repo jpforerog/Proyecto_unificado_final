@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormEliminarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formeliminararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formeliminararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formfiltrararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formfiltrararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormCambiarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formcambiararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formcambiararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormBuscarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formbuscararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formbuscararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\Arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\Arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormEliminarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formeliminarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formeliminarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormCambiarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formcambiarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formcambiarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|c:\\users\\jupaf\\documents\\proyecto_final_empresariales\\cliente .net\\clientevideojuego\\clientevideojuego\\formcambiarmunicion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formcambiarmunicion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormCambiarMunicion.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormFiltrarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\Municion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\Municion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormListarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormListarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCrearArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormCrearArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormBuscarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formbuscarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formbuscarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formfiltrarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formfiltrarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCrearMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormCrearMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formlistararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formlistararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formlistarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formlistarmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormListarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormListarMunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormFiltrarArma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formcrearmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formcrearmunicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formcreararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formcreararma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormFiltrarArma.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormFiltrarArma.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\clientevideojuego\\formjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:clientevideojuego\\formjuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarMunicion.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormFiltrarMunicion.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormMenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormMenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormJuego.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormJuego.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8ADFB06-3B98-4363-96E5-70B6B3D9797F}|ClienteVideojuego\\ClienteVideojuego.csproj|solutionrelative:ClienteVideojuego\\FormJuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Arma.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\Arma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\Arma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\Arma.cs",
+              "RelativeToolTip": "ClienteVideojuego\\Arma.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T04:23:11.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCambiarArma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCambiarArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarArma.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteVideojuego\\FormCambiarArma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:43:54.252Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCambiarArma.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCambiarArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarArma.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormCambiarArma.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAowMgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:26:06.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormFiltrarArma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormFiltrarArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteVideojuego\\FormFiltrarArma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:11:56.338Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEliminarArma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormEliminarArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarArma.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "ClienteVideojuego\\FormEliminarArma.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:50:20.487Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEliminarArma.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormEliminarArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarArma.cs*",
+              "RelativeToolTip": "ClienteVideojuego\\FormEliminarArma.cs*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowH4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:34:10.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBuscarArma.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormBuscarArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarArma.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormBuscarArma.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:25:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormBuscarArma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormBuscarArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarArma.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteVideojuego\\FormBuscarArma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:22:08.452Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Municion.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\Municion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\Municion.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\Municion.cs",
+              "RelativeToolTip": "ClienteVideojuego\\Municion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:30:57.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormEliminarMunicion.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormEliminarMunicion.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarMunicion.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormEliminarMunicion.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwIUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:39:28.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormEliminarMunicion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormEliminarMunicion.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormEliminarMunicion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteVideojuego\\FormEliminarMunicion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:40:00.542Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCambiarMunicion.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCambiarMunicion.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormCambiarMunicion.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwD8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:17:40.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormCambiarMunicion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCambiarMunicion.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteVideojuego\\FormCambiarMunicion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:24:31.747Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormCrearArma.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCrearArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCrearArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCrearArma.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormCrearArma.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAhwEUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T04:13:53.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormListarArma.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormListarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormListarArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormListarArma.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormListarArma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T00:50:58.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormCambiarMunicion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCambiarMunicion.Designer.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.Designer.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormCambiarMunicion.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:15:45.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormFiltrarMunicion.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormFiltrarMunicion.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarMunicion.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormFiltrarMunicion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:43:23.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormCambiarMunicion.resx",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.resx",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCambiarMunicion.resx",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCambiarMunicion.resx",
+              "RelativeToolTip": "ClienteVideojuego\\FormCambiarMunicion.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-13T16:15:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormBuscarMunicion.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormBuscarMunicion.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarMunicion.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormBuscarMunicion.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAhwDoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:30:27.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\Program.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\Program.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\Program.cs",
+              "RelativeToolTip": "ClienteVideojuego\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T03:30:59.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormMenu.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormMenu.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormMenu.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:41:41.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormMenu.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:54:30.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormBuscarMunicion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormBuscarMunicion.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarMunicion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormBuscarMunicion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:22:23.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormFiltrarMunicion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormFiltrarMunicion.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarMunicion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarMunicion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:42:24.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormCrearMunicion.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCrearMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCrearMunicion.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCrearMunicion.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormCrearMunicion.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:47:23.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormListarArma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormListarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormListarArma.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormListarArma.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormListarArma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T00:50:53.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormListarMunicion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormListarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormListarMunicion.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormListarMunicion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormListarMunicion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T00:50:54.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormListarMunicion.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormListarMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormListarMunicion.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormListarMunicion.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormListarMunicion.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwDEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T00:50:54.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormFiltrarArma.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormFiltrarArma.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormFiltrarArma.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:13:08.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormCrearMunicion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCrearMunicion.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCrearMunicion.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormCrearMunicion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormCrearMunicion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T04:16:32.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormCrearArma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormCrearArma.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormCrearArma.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormCrearArma.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormCrearArma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T04:13:29.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormFiltrarArma.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormFiltrarArma.Designer.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.Designer.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormFiltrarArma.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:15:38.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormFiltrarArma.resx",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.resx",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormFiltrarArma.resx",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarArma.resx",
+              "RelativeToolTip": "ClienteVideojuego\\FormFiltrarArma.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-21T23:15:40.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormJuego.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormJuego.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormJuego.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormJuego.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\sebas\\OneDrive\\Escritorio\\ClienteVideojuegos\\ClienteVideojuego\\ClienteVideojuego\\FormJuego.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:54:26.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormFiltrarMunicion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarMunicion.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormFiltrarMunicion.Designer.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormFiltrarMunicion.Designer.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormFiltrarMunicion.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:42:27.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormMenu.resx",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormMenu.resx",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormMenu.resx",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormMenu.resx",
+              "RelativeToolTip": "ClienteVideojuego\\FormMenu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-20T16:41:42.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormJuego.resx",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormJuego.resx",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormJuego.resx",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormJuego.resx",
+              "RelativeToolTip": "ClienteVideojuego\\FormJuego.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-20T16:41:45.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormJuego.cs",
+              "DocumentMoniker": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormJuego.cs",
+              "RelativeDocumentMoniker": "ClienteVideojuego\\FormJuego.cs",
+              "ToolTip": "C:\\Users\\jupaf\\Documents\\proyecto_final_empresariales\\cliente .net\\ClienteVideojuego\\ClienteVideojuego\\FormJuego.cs",
+              "RelativeToolTip": "ClienteVideojuego\\FormJuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:41:46.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

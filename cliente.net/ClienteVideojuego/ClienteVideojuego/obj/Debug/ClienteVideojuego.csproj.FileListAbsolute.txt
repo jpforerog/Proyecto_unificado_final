@@ -1,0 +1,227 @@
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe.config
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.pdb
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.exe
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.pdb
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormMenu.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearArma.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearMunicion.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\RestSharp.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Buffers.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Memory.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Json.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.ValueTuple.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\RestSharp.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Buffers.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Memory.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Json.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.ValueTuple.xml
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteV.C7C110AA.Up2Date
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarMunicion.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarMunicion.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarMunicion.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarArma.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarArma.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormJuego.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarArma.resources
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.dll
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.pdb
+C:\Users\Sebastian\source\repos\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarArma.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarMunicion.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearMunicion.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarArma.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarMunicion.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormJuego.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarArma.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarMunicion.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormMenu.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearArma.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.exe
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.pdb
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe.config
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.pdb
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\RestSharp.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Buffers.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Memory.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Json.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.ValueTuple.dll
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.pdb
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\RestSharp.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Buffers.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Memory.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Json.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.ValueTuple.xml
+C:\Users\Sebastian\Desktop\NuevoEmpresariales\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteV.C7C110AA.Up2Date
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe.config
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\ClienteVideojuego.pdb
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\NodaTime.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\RestSharp.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Buffers.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Memory.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Text.Json.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.ValueTuple.dll
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\NodaTime.pdb
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\NodaTime.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\RestSharp.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Buffers.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Memory.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Text.Json.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\bin\Debug\System.ValueTuple.xml
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.AssemblyReference.cache
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarArma.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarMunicion.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearMunicion.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarArma.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarMunicion.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormJuego.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarArma.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarMunicion.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormMenu.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearArma.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.Properties.Resources.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.GenerateResource.cache
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.CoreCompileInputs.cache
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteV.C7C110AA.Up2Date
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.exe
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.pdb
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormFiltrarMunicion.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormFiltrarArma.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormBuscarArma.resources
+C:\Users\jupaf\Documents\Desarrollo aplicaciones empresariales\ProyectoEmpresarialesMicroservicios\Cliente net\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormBuscarMunicion.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe.config
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.pdb
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\RestSharp.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Buffers.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Memory.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Json.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.ValueTuple.dll
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.pdb
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\RestSharp.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Buffers.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Memory.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Json.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.ValueTuple.xml
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormBuscarArma.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormBuscarMunicion.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarArma.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarMunicion.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearMunicion.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarArma.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarMunicion.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormFiltrarArma.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormFiltrarMunicion.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormJuego.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarArma.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarMunicion.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormMenu.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearArma.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteV.C7C110AA.Up2Date
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.exe
+C:\Users\sebas\OneDrive\Escritorio\ClienteVideojuegos\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.pdb
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe.config
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.exe
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\ClienteVideojuego.pdb
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\RestSharp.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Buffers.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Memory.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Json.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.ValueTuple.dll
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.pdb
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\NodaTime.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\RestSharp.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Buffers.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Memory.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Text.Json.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\bin\Debug\System.ValueTuple.xml
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.AssemblyReference.cache
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormBuscarArma.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormBuscarMunicion.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarArma.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCambiarMunicion.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearMunicion.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarArma.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormEliminarMunicion.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormFiltrarArma.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormFiltrarMunicion.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormJuego.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarArma.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormListarMunicion.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormMenu.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.FormCrearArma.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.Properties.Resources.resources
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.GenerateResource.cache
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.csproj.CoreCompileInputs.cache
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteV.C7C110AA.Up2Date
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.exe
+C:\Users\jupaf\Documents\proyecto_final_empresariales\cliente .net\ClienteVideojuego\ClienteVideojuego\obj\Debug\ClienteVideojuego.pdb
