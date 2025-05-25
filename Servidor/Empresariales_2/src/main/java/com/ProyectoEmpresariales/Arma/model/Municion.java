@@ -29,6 +29,10 @@ public class Municion {
     @Column(nullable = false)
     private int cadencia;
 
+    @Column(nullable = false, columnDefinition = "NUMBER(1) DEFAULT 1")
+    @Builder.Default
+    private boolean activo = true;
+
     @OneToMany(mappedBy = "tipoMunicion")
     @JsonManagedReference
     private List<Rifle> rifles;
@@ -39,5 +43,16 @@ public class Municion {
         this.nombre = nombre;
         this.dañoArea = dañoArea;
         this.cadencia = cadencia;
+        this.activo = true; // Por defecto, las municiones están activas
+    }
+
+    // Método para desactivar la munición (eliminación lógica)
+    public void desactivar() {
+        this.activo = false;
+    }
+
+    // Método para activar la munición
+    public void activar() {
+        this.activo = true;
     }
 }

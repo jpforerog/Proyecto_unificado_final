@@ -367,41 +367,36 @@ public class ArmaController {
 
         Long id = jsonNode.get("id").asLong();
 
-        // Buscar el arma por ID
-        Optional<Arma> armaOpt = servicioArma.findById(id);
+        try {
+            // Buscar el arma activa por ID
+            Optional<Arma> armaOpt = servicioArma.findById(id);
 
-        if (!armaOpt.isPresent()) {
-            return new ResponseEntity<>("Arma no encontrada", HttpStatus.NOT_FOUND);
+            if (!armaOpt.isPresent()) {
+                return new ResponseEntity<>("Arma no encontrada", HttpStatus.NOT_FOUND);
+            }
+
+            Arma arma = armaOpt.get();
+            if (!(arma instanceof Rifle)) {
+                return new ResponseEntity<>("El arma encontrada no es del tipo esperado", HttpStatus.BAD_REQUEST);
+            }
+
+            Rifle rifle = (Rifle) arma;
+
+            // Crear respuesta
+            Map<String, Object> armaDTO = new HashMap<>();
+            armaDTO.put("id", rifle.getId());
+            armaDTO.put("nombre", rifle.getNombre());
+            armaDTO.put("mensaje", "Arma eliminada correctamente");
+
+            // Realizar eliminación lógica (cambia activo = false)
+            servicioArma.eliminarArma(arma);
+
+            return new ResponseEntity<>(armaDTO, HttpStatus.OK);
+
+        } catch (Exception e) {
+            return new ResponseEntity<>("Error al eliminar el arma: " + e.getMessage(),
+                    HttpStatus.INTERNAL_SERVER_ERROR);
         }
-
-        // Verificar si es un rifle
-        Arma arma = armaOpt.get();
-        if (!(arma instanceof Rifle)) {
-            return new ResponseEntity<>("El arma encontrada no es del tipo esperado", HttpStatus.BAD_REQUEST);
-        }
-
-        Rifle rifle = (Rifle) arma;
-
-        // Crear un DTO simplificado para la respuesta
-        Map<String, Object> armaDTO = new HashMap<>();
-        armaDTO.put("id", rifle.getId());
-        armaDTO.put("nombre", rifle.getNombre());
-        armaDTO.put("daño", rifle.getDaño());
-        armaDTO.put("municion", rifle.getMunicion());
-        armaDTO.put("vida", rifle.getVida());
-        armaDTO.put("velocidad", rifle.getVelocidad());
-
-        // No incluimos la relación tipoMunicion para evitar problemas de lazy loading
-        Map<String, Object> municionInfo = new HashMap<>();
-        municionInfo.put("id", rifle.getTipoMunicion().getId());
-        municionInfo.put("nombre", rifle.getTipoMunicion().getNombre());
-        armaDTO.put("tipoMunicion", municionInfo);
-
-        // Eliminar el arma
-        servicioArma.eliminarArma(arma);
-
-        // Devolver el DTO en lugar de la entidad
-        return new ResponseEntity<>(armaDTO, HttpStatus.OK);
     }
 
     @PutMapping(value = "/")
@@ -501,5 +496,72 @@ public class ArmaController {
         } catch (Exception e) {
             return new ResponseEntity<>(e.getMessage(), HttpStatus.BAD_REQUEST);
         }
+    }
+
+    // Nuevo endpoint para reactivar armas
+    @PutMapping(value = "/reactivar")
+    public ResponseEntity<?> reactivarArma(@RequestBody JsonNode jsonNode) {
+        if (!jsonNode.has("id")) {
+            return new ResponseEntity<>("Tienes que proporcionar el ID del arma", HttpStatus.BAD_REQUEST);
+        }
+
+        if (!jsonNode.get("id").isNumber()) {
+            return new ResponseEntity<>("El ID debe ser un número", HttpStatus.BAD_REQUEST);
+        }
+
+        Long id = jsonNode.get("id").asLong();
+
+        try {
+            Arma armaReactivada = servicioArma.reactivarArma(id);
+
+            Map<String, Object> armaDTO = new HashMap<>();
+            armaDTO.put("id", armaReactivada.getId());
+            armaDTO.put("nombre", armaReactivada.getNombre());
+            armaDTO.put("mensaje", "Arma reactivada correctamente");
+
+            return new ResponseEntity<>(armaDTO, HttpStatus.OK);
+
+        } catch (Exception e) {
+            return new ResponseEntity<>("Error al reactivar el arma: " + e.getMessage(),
+                    HttpStatus.BAD_REQUEST);
+        }
+    }
+
+    // Nuevo endpoint para listar armas inactivas
+    @GetMapping(value = "/inactivas")
+    public ResponseEntity<?> getArmasInactivas() {
+        List<Arma> armasInactivas = servicioArma.getArmasInactivas();
+
+        if (armasInactivas.isEmpty()) {
+            return new ResponseEntity<>("No hay armas inactivas", HttpStatus.NOT_FOUND);
+        }
+
+        // Crear lista simple
+        List<Map<String, Object>> armasDTO = new ArrayList<>();
+        for (Arma arma : armasInactivas) {
+            Map<String, Object> dto = new HashMap<>();
+            dto.put("id", arma.getId());
+            dto.put("nombre", arma.getNombre());
+            dto.put("daño", arma.getDaño());
+            dto.put("vida", arma.getVida());
+            if (arma instanceof Rifle) {
+                dto.put("velocidad", ((Rifle) arma).getVelocidad());
+            }
+            armasDTO.add(dto);
+        }
+
+        return new ResponseEntity<>(armasDTO, HttpStatus.OK);
+    }
+
+    // Nuevo endpoint para estadísticas básicas
+    @GetMapping(value = "/estadisticas")
+    public ResponseEntity<?> getEstadisticas() {
+        Map<String, Object> estadisticas = new HashMap<>();
+        estadisticas.put("armasActivas", servicioArma.countArmasActivas());
+        estadisticas.put("armasInactivas", servicioArma.countArmasInactivas());
+        estadisticas.put("municionesActivas", servicioMunicion.countMunicionesActivas());
+        estadisticas.put("municionesInactivas", servicioMunicion.countMunicionesInactivas());
+
+        return new ResponseEntity<>(estadisticas, HttpStatus.OK);
     }
 }

@@ -98,40 +98,52 @@ public class MunicionController {
 
         List<Municion> municionesFiltradas = new ArrayList<>();
 
-        // Aplicar filtros
-        if (tieneCadenciaMinima && tieneDañoArea) {
-            // Filtrar por ambos criterios
-            int cadenciaMinima = jsonNode.get("cadencia_minima").asInt();
-            boolean danoArea = jsonNode.get("danoArea").asBoolean();
-
-            List<Municion> municionesPorCadencia = servicioMunicion.findByCadenciaMinima(cadenciaMinima);
-            for (Municion m : municionesPorCadencia) {
-                if (m.isDañoArea() == danoArea) {
-                    municionesFiltradas.add(m);
-                }
-            }
-        } else if (tieneCadenciaMinima) {
-            // Filtrar solo por cadencia mínima
-            int cadenciaMinima = jsonNode.get("cadencia_minima").asInt();
-            municionesFiltradas = servicioMunicion.findByCadenciaMinima(cadenciaMinima);
-        } else {
-            // Filtrar solo por daño de área
-            boolean danoArea = jsonNode.get("danoArea").asBoolean();
-            municionesFiltradas = servicioMunicion.findByDañoArea(danoArea);
-        }
-
-        if (municionesFiltradas.isEmpty()) {
-            return new ResponseEntity<>("No existen municiones con esas características", HttpStatus.NOT_FOUND);
-        }
-
-        // Convertir a JSON
         try {
-            String jsonResponse = objectMapper.writeValueAsString(municionesFiltradas);
+            // Aplicar filtros solo entre municiones activas
+            if (tieneCadenciaMinima && tieneDañoArea) {
+                // Filtrar por ambos criterios
+                int cadenciaMinima = jsonNode.get("cadencia_minima").asInt();
+                boolean danoArea = jsonNode.get("danoArea").asBoolean();
+
+                // Usar método del repositorio que filtra por ambos criterios y activo = true
+                List<Municion> municionesPorCadencia = servicioMunicion.findByCadenciaMinima(cadenciaMinima);
+                for (Municion m : municionesPorCadencia) {
+                    if (m.isDañoArea() == danoArea) {
+                        municionesFiltradas.add(m);
+                    }
+                }
+            } else if (tieneCadenciaMinima) {
+                // Filtrar solo por cadencia mínima (entre municiones activas)
+                int cadenciaMinima = jsonNode.get("cadencia_minima").asInt();
+                municionesFiltradas = servicioMunicion.findByCadenciaMinima(cadenciaMinima);
+            } else {
+                // Filtrar solo por daño de área (entre municiones activas)
+                boolean danoArea = jsonNode.get("danoArea").asBoolean();
+                municionesFiltradas = servicioMunicion.findByDañoArea(danoArea);
+            }
+
+            if (municionesFiltradas.isEmpty()) {
+                return new ResponseEntity<>("No existen municiones activas con esas características", HttpStatus.NOT_FOUND);
+            }
+
+            // Convertir a JSON incluyendo estado activo
+            List<Map<String, Object>> municionesDTO = new ArrayList<>();
+            for (Municion municion : municionesFiltradas) {
+                Map<String, Object> dto = new HashMap<>();
+                dto.put("id", municion.getId());
+                dto.put("nombre", municion.getNombre());
+                dto.put("cadencia", municion.getCadencia());
+                dto.put("dañoArea", municion.isDañoArea());
+                dto.put("activo", municion.isActivo());
+                municionesDTO.add(dto);
+            }
+
             return ResponseEntity.ok()
                     .contentType(org.springframework.http.MediaType.APPLICATION_JSON)
-                    .body(jsonResponse);
+                    .body(municionesDTO);
+
         } catch (Exception e) {
-            return new ResponseEntity<>("Error al convertir los resultados a JSON: " + e.getMessage(),
+            return new ResponseEntity<>("Error al filtrar municiones: " + e.getMessage(),
                     HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
@@ -170,33 +182,32 @@ public class MunicionController {
 
         Long id = jsonNode.get("id").asLong();
 
-        // Buscar la munición
-        Optional<Municion> municionOpt = servicioMunicion.findById(id);
-        if (!municionOpt.isPresent()) {
-            return new ResponseEntity<>("Munición no encontrada", HttpStatus.NOT_FOUND);
+        try {
+            // Buscar la munición activa
+            Optional<Municion> municionOpt = servicioMunicion.findById(id);
+            if (!municionOpt.isPresent()) {
+                return new ResponseEntity<>("Munición no encontrada", HttpStatus.NOT_FOUND);
+            }
+
+            Municion municion = municionOpt.get();
+
+            // Crear respuesta
+            Map<String, Object> municionDTO = new HashMap<>();
+            municionDTO.put("id", municion.getId());
+            municionDTO.put("nombre", municion.getNombre());
+            municionDTO.put("mensaje", "Munición eliminada correctamente");
+
+            // Realizar eliminación lógica (cambia activo = false)
+            servicioMunicion.eliminarMunicion(municion);
+
+            return new ResponseEntity<>(municionDTO, HttpStatus.OK);
+
+        } catch (Exception e) {
+            return new ResponseEntity<>("Error al eliminar la munición: " + e.getMessage(),
+                    HttpStatus.BAD_REQUEST);
         }
-
-        Municion municion = municionOpt.get();
-
-        // Verificar si es la munición predeterminada
-        Municion predeterminada = servicioMunicion.getPredeterminada();
-        if (municion.getId().equals(predeterminada.getId())) {
-            return new ResponseEntity<>("La munición predeterminada no se puede eliminar", HttpStatus.BAD_REQUEST);
-        }
-
-        // Crear un DTO simplificado para la respuesta
-        Map<String, Object> municionDTO = new HashMap<>();
-        municionDTO.put("id", municion.getId());
-        municionDTO.put("nombre", municion.getNombre());
-        municionDTO.put("cadencia", municion.getCadencia());
-        municionDTO.put("dañoArea", municion.isDañoArea());
-
-        // Eliminar la munición
-        servicioMunicion.eliminarMunicion(municion);
-
-        // Devolver el DTO en lugar de la entidad
-        return new ResponseEntity<>(municionDTO, HttpStatus.OK);
     }
+
 
     @PutMapping(value = "/")
     public ResponseEntity<?> actualizarMunicion(@RequestBody JsonNode jsonNode) {
@@ -228,5 +239,57 @@ public class MunicionController {
         } catch (Exception e) {
             return new ResponseEntity<>(e.getMessage(), HttpStatus.BAD_REQUEST);
         }
+    }
+
+    // Nuevo endpoint para reactivar municiones
+    @PutMapping(value = "/reactivar")
+    public ResponseEntity<?> reactivarMunicion(@RequestBody JsonNode jsonNode) {
+        if (!jsonNode.has("id")) {
+            return new ResponseEntity<>("Tienes que proporcionar el ID de la munición", HttpStatus.BAD_REQUEST);
+        }
+
+        if (!jsonNode.get("id").isNumber()) {
+            return new ResponseEntity<>("El ID debe ser un número", HttpStatus.BAD_REQUEST);
+        }
+
+        Long id = jsonNode.get("id").asLong();
+
+        try {
+            Municion municionReactivada = servicioMunicion.reactivarMunicion(id);
+
+            Map<String, Object> municionDTO = new HashMap<>();
+            municionDTO.put("id", municionReactivada.getId());
+            municionDTO.put("nombre", municionReactivada.getNombre());
+            municionDTO.put("mensaje", "Munición reactivada correctamente");
+
+            return new ResponseEntity<>(municionDTO, HttpStatus.OK);
+
+        } catch (Exception e) {
+            return new ResponseEntity<>("Error al reactivar la munición: " + e.getMessage(),
+                    HttpStatus.BAD_REQUEST);
+        }
+    }
+
+    // Nuevo endpoint para listar municiones inactivas
+    @GetMapping(value = "/inactivas")
+    public ResponseEntity<?> getMunicionesInactivas() {
+        List<Municion> municionesInactivas = servicioMunicion.getMunicionesInactivas();
+
+        if (municionesInactivas.isEmpty()) {
+            return new ResponseEntity<>("No hay municiones inactivas", HttpStatus.NOT_FOUND);
+        }
+
+        // Crear lista simple
+        List<Map<String, Object>> municionesDTO = new ArrayList<>();
+        for (Municion municion : municionesInactivas) {
+            Map<String, Object> dto = new HashMap<>();
+            dto.put("id", municion.getId());
+            dto.put("nombre", municion.getNombre());
+            dto.put("cadencia", municion.getCadencia());
+            dto.put("dañoArea", municion.isDañoArea());
+            municionesDTO.add(dto);
+        }
+
+        return new ResponseEntity<>(municionesDTO, HttpStatus.OK);
     }
 }

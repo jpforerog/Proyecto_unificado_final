@@ -49,13 +49,7 @@ const ListRifle = () => {
                         <td>{rifle.nombre}</td>
                         <td>{rifle.capMunicion}</td>
                         <td>{rifle.daño}</td>
-                        <td>{(() => {
-                                let year = rifle.fechaCreacion[0]
-                                let month = rifle.fechaCreacion[1]
-                                let day = rifle.fechaCreacion[2]
-                                return `${year}-${month}-${day}`
-                            })()}
-                        </td>
+                        <td>{rifle.fechaCreacion}</td>
                         <td>{rifle.municion}</td>
                         <td>{rifle.velocidad}</td>
                         <td>{rifle.vida}</td>

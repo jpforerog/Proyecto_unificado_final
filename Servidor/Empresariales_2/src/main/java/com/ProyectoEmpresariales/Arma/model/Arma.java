@@ -39,6 +39,9 @@ public abstract class Arma {
     @Column(name = "TIPO_ARMA", insertable = false, updatable = false)
     private String tipoArma;
 
+    @Column(nullable = false, columnDefinition = "NUMBER(1) DEFAULT 1")
+    private boolean activo = true;
+
     protected Arma() {
     }
 
@@ -49,10 +52,12 @@ public abstract class Arma {
         this.nombre = nombre;
         this.fechaCreacion = fechaCreacion;
         this.vida = vida;
+        this.activo = true; // Por defecto, las armas están activas
     }
 
     public abstract double getVelocidad();
 
+    // Getters y Setters existentes
     public Long getId() {
         return id;
     }
@@ -111,6 +116,15 @@ public abstract class Arma {
 
     public void setCapMunicion(int capMunicion) {
         this.capMunicion = capMunicion;
+    }
+
+    // Nuevo getter y setter para activo
+    public boolean isActivo() {
+        return activo;
+    }
+
+    public void setActivo(boolean activo) {
+        this.activo = activo;
     }
 
     public String getTipoArma() {
